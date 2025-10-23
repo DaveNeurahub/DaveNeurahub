@@ -33,7 +33,7 @@ I enjoy exploring **emerging AI trends**, mentoring startups, and contributing t
 
 ## 📊 GitHub Stats
 
-![Dave F GitHub Stats](https://github-readme-stats.vercel.app/api?username=davef&show_icons=true&theme=radical)
+![Dave F GitHub Stats](https://github-readme-stats.vercel.app/api?username=daveneurahub&show_icons=true&theme=radical)
 
 ---
 
