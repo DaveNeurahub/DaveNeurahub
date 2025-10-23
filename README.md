@@ -1,6 +1,6 @@
 # 🚀 Dave F – Co-Founder of Neurahub
 
-![Neurahub AI Banner](https://via.placeholder.com/1200x300.png?text=Neurahub+AI+Ecosystem)
+![Neurahub AI Banner](https://pbs.twimg.com/profile_banners/1763565383728951296/1753908189/1500x500)
 
 Hi! I'm **Dave F**, co-founder of **Neurahub**, a next-generation AI ecosystem designed to empower creators, developers, and innovators.  
 I specialize in building **multi-modal AI platforms**, shaping strategy, and creating **community-driven, transparent systems**.
