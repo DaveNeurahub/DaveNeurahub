@@ -1,4 +1,4 @@
-![Neurahub AI Banner](https://pbs.twimg.com/profile_banners/1763565383728951296/1753908189/1500x500)
+![neurahub](https://i.postimg.cc/44rHbZWq/neuracov.png))
 
 # 🚀 Dave F – Co-Founder of Neurahub
 
